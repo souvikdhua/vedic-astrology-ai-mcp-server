@@ -41,3 +41,7 @@ Thumbs.db
 # dist/
 # *.js
 # !*.config.js
+
+# Python
+__pycache__/
+*.pyc
