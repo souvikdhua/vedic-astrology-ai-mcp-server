@@ -99,9 +99,11 @@ python3 scripts/vedastro.py ashtakvarga \
 
 ## Interpreting results
 
-The API returns structured data, not prose. Read `references/interpretation.md`
-for guidance on turning planet/house/Kuta/Ashtakvarga output into a clear,
-well-organized reading for the user. Present findings grouped by life area, lead
+The API returns structured data, not prose. Two references turn it into a
+reading: `references/reading-technique.md` is the *method* — the step-by-step
+Parashari algorithm (pillars → centre of gravity → three-fold bhava analysis →
+strength → functional nature → yogas → vargas → dasha → weighted synthesis);
+`references/interpretation.md` is the *presentation* — how to lay the result out. Present findings grouped by life area, lead
 with the strongest signals, and note that this is traditional astrology offered
 for reflection — not deterministic fact, medical, legal, or financial advice.
 
